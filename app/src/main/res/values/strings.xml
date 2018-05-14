@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DegreesToRadians</string>
+
+    <string name="calculate_degreeToNum">Расчитать</string>
+    <string name="degreeToNum">Градусы в число</string>
+    <string name="fake">Число в градусы</string>
+    <string name="fakeButtonActivityTwo">Градусы в число</string>
+    <string name="enterTextNum">Введите Число</string>
+    <string name="calculate_numToDegree">Расчитать</string>
+    <string name="activityNumToDegree">Число в градусы</string>
+    <string name="labelMin">||</string>
+    <string name="labelSec">|</string>
+    <string name="labelGrad">o</string>
+    <string name="title_activity_degree_to_num">DegreeToNum</string>
+</resources>
